@@ -1,5 +1,5 @@
 ---
 title: "Example 1"
-featured_image: "polar.jpg"
+featured_image: "/images/polar.jpg"
 draft: false
 ---
